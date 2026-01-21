@@ -4,3 +4,5 @@ numpy
 requests
 faker
 pydeck
+matplotlib
+altair>=5.5.0
